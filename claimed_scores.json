@@ -1,0 +1,6 @@
+{
+ "byteverity_parse":        {"overall": 81.46, "tables": 86.77, "charts": 77.69, "content_faithfulness": 88.34, "semantic_formatting": 78.08, "visual_grounding": 76.43},
+ "byteverity_parse_hybrid": {"overall": 82.11, "tables": 87.03, "charts": 79.47, "content_faithfulness": 88.61, "semantic_formatting": 78.99, "visual_grounding": 76.43},
+ "dataset": "ParseBench public set, 2,078 pages (scorer: unmodified ParseBench)",
+ "proposer": {"byteverity_parse": "gpt-6-luna (effort low; table zoom effort high)", "byteverity_parse_hybrid": "gpt-6-luna + oracle-gated gpt-6-sol"}
+}
