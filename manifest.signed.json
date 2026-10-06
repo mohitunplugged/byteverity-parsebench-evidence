@@ -4338,7 +4338,7 @@
  "package": {
   "files": 31,
   "name": "parse_bench.inference.providers.parse.byteverity (PR branch byteverity-parse)",
-  "tree_root_sha256": "bcff1a5440421c3810c548487679e5203faab66ee2cfa4848f7e48d0dd37bf74"
+  "tree_root_sha256": "bdf6b959dd54fdf2ba8881a8ebdb6ed1bc77b4f6c572a63fe8334fa10d1898aa"
  },
  "parsebench": {
   "commit": "afb36bd83ed8df7846f9d4f18c58bb948d9d5de0",
@@ -4350,7 +4350,7 @@
   "byteverity_parse_hybrid": "2be01b8d9210f6f2e35ddce6d6515da51cbd4ded82ed7a55bf3164671aa9386e"
  },
  "schema": "bv.validity.handoff.v1",
- "signature": "7b1780df9771765495ecccdeb0373669588f55abcba7ca42e5f16338c0e87dbecfc0a1c63b4b022b6a824f38dd5efb510284cadaac677bd9615530de675dd204",
+ "signature": "691cfc25fb631e8e9eb08c8cce34aaa266dae1fb2bee6698e3a54c520f3fb3cc204af06d7987c7998baae4b6b6de46a73699707653bd1cab5fa8ba1578031c08",
  "signer_keyid": "942ca4c52e54e38dc1905a07f9871c159ac4eff7be9d834c5a825a2dc47da62a",
  "signer_pubkey": "48a734ce9fe1e3d4ddf120aab9c2e804ff2e0be9ee158676153c2ad65c018249",
  "verified_results": {
