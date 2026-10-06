@@ -4337,8 +4337,8 @@
  "oracle_proofs_summary_sha256": "d1f029372130329fa9bfba1ffc180e19c894732edee7a38ebe22b75d71add07c",
  "package": {
   "files": 31,
-  "name": "parse_bench.inference.providers.parse.byteverity (PR branch byteverity-parse)",
-  "tree_root_sha256": "bdf6b959dd54fdf2ba8881a8ebdb6ed1bc77b4f6c572a63fe8334fa10d1898aa"
+  "name": "parse_bench.inference.providers.parse.byteverity (PR #197, branch byteverity-parse)",
+  "tree_root_sha256": "bc6d80569ba1327136d1c744ecc3edc5f0a01708ff6b43133a216cac428b89a8"
  },
  "parsebench": {
   "commit": "afb36bd83ed8df7846f9d4f18c58bb948d9d5de0",
@@ -4350,7 +4350,7 @@
   "byteverity_parse_hybrid": "2be01b8d9210f6f2e35ddce6d6515da51cbd4ded82ed7a55bf3164671aa9386e"
  },
  "schema": "bv.validity.handoff.v1",
- "signature": "691cfc25fb631e8e9eb08c8cce34aaa266dae1fb2bee6698e3a54c520f3fb3cc204af06d7987c7998baae4b6b6de46a73699707653bd1cab5fa8ba1578031c08",
+ "signature": "3748fc2b8b8f34bd1f584d76a58da9e417299e72e5bdd06be02e56adec501db3c049a7fb394e0e70dc3367d1f7114cf107c51e7a9a07aea8036774422a1f3009",
  "signer_keyid": "942ca4c52e54e38dc1905a07f9871c159ac4eff7be9d834c5a825a2dc47da62a",
  "signer_pubkey": "48a734ce9fe1e3d4ddf120aab9c2e804ff2e0be9ee158676153c2ad65c018249",
  "verified_results": {
